@@ -179,7 +179,3 @@ The LightGCN encoder runs on both the real graph and the counterfactual graph, p
 5. Kim, J., Kim, H., & Kim, J. (2023). HMLET: Hybrid method of linear and non-linear collaborative filtering. *RecSys 2023*. https://doi.org/10.1145/3604915.3608822
 
 6. Harper, F. M., & Konstan, J. A. (2016). The MovieLens datasets: History and context. *ACM TIIS, 5*(4), 19:1-19:19. https://doi.org/10.1145/2827872
-
----
-
-> **Before pushing to GitHub:** Upload the 5 figure files (Fig1.png, Fig2_credit_stockimages.png, Fig3.png, Fig4.png, Fig5.png) to the path `results/figures/` inside your repository. The image links in this README point to `https://raw.githubusercontent.com/suparuek2405/CC-LightGCN/main/results/figures/` — replace `CC-LightGCN` with your actual repo name if it differs.
